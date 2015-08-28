@@ -1,0 +1,3434 @@
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 00:11:18 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 1317ms (Views: 1315.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 00:11:20 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:20 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 00:11:20 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:20 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:20 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:20 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:20 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 00:11:22 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 19:39:18 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 597ms (Views: 595.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 19:39:19 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 19:39:19 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:19 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:19 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:19 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:19 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:19 +0900
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 19:39:25 +0900
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-24 19:40:08 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 19:40:09 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 19:40:09 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 19:40:09 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 19:40:09 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 19:40:09 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 19:40:09 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 19:40:09 +0900
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-24 21:50:14 +0900
+Processing by StaticPagesController#help as HTML
+Completed 500 Internal Server Error in 31ms
+
+ActionView::MissingTemplate (Missing template static_pages/help, application/help with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+):
+  actionpack (4.0.5) lib/action_view/path_set.rb:46:in `find'
+  actionpack (4.0.5) lib/action_view/lookup_context.rb:122:in `find'
+  actionpack (4.0.5) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionpack (4.0.5) lib/action_view/renderer/template_renderer.rb:35:in `determine_template'
+  actionpack (4.0.5) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionpack (4.0.5) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionpack (4.0.5) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:127:in `_render_template'
+  actionpack (4.0.5) lib/action_controller/metal/streaming.rb:219:in `_render_template'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:120:in `render_to_body'
+  actionpack (4.0.5) lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+  actionpack (4.0.5) lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:97:in `render'
+  actionpack (4.0.5) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.0.5) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+  activesupport (4.0.5) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.0.5) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.0.5) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.0.5) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.0.5) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.0.5) lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:403:in `_run__3586742740763226412__process_action__callbacks'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.5) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.5) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.5) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.5) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.0.5) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.5) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.5) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.5) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.5) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.5) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.5) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:674:in `call'
+  rack (1.5.5) lib/rack/etag.rb:23:in `call'
+  rack (1.5.5) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.5) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.5) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.5) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.5) lib/active_record/migration.rb:373:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:373:in `_run__2246940399849487031__call__callbacks'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (8.0ms)
+
+
+Started GET "/static_pages/" for 127.0.0.1 at 2015-08-24 21:50:24 +0900
+
+ActionController::RoutingError (No route matches [GET] "/static_pages"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.8ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (40.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (156.3ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 21:50:36 +0900
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 1ms
+
+ActionView::MissingTemplate (Missing template static_pages/home, application/home with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+):
+  actionpack (4.0.5) lib/action_view/path_set.rb:46:in `find'
+  actionpack (4.0.5) lib/action_view/lookup_context.rb:122:in `find'
+  actionpack (4.0.5) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionpack (4.0.5) lib/action_view/renderer/template_renderer.rb:35:in `determine_template'
+  actionpack (4.0.5) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionpack (4.0.5) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionpack (4.0.5) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:127:in `_render_template'
+  actionpack (4.0.5) lib/action_controller/metal/streaming.rb:219:in `_render_template'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:120:in `render_to_body'
+  actionpack (4.0.5) lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+  actionpack (4.0.5) lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:97:in `render'
+  actionpack (4.0.5) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.0.5) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+  activesupport (4.0.5) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.0.5) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.0.5) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.0.5) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.0.5) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.0.5) lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:403:in `_run__3586742740763226412__process_action__callbacks'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.5) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.5) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.5) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.5) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.5) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.5) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.0.5) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.5) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.5) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.5) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.5) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.5) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.5) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.5) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.5) lib/action_dispatch/routing/route_set.rb:674:in `call'
+  rack (1.5.5) lib/rack/etag.rb:23:in `call'
+  rack (1.5.5) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.5) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.5) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.5) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.5) lib/active_record/migration.rb:373:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:373:in `_run__2246940399849487031__call__callbacks'
+  activesupport (4.0.5) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.5ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 21:59:41 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 244ms (Views: 242.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 21:59:42 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:42 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:42 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:42 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:42 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 21:59:42 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:42 +0900
+
+
+Started GET "/static_pages/about" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 21:59:45 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-24 22:42:50 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/railties-4.0.5/lib/rails/templates/rails/welcome/index.html.erb (1.5ms)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 22:42:58 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb (0.4ms)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-24 22:43:11 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb (0.4ms)
+Completed 200 OK in 23ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-24 22:44:02 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb (0.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/apple-touch-icon-precomposed.png" for 127.0.0.1 at 2015-08-24 22:44:03 +0900
+
+ActionController::RoutingError (No route matches [GET] "/apple-touch-icon-precomposed.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.7ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (136.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (703.2ms)
+
+
+Started GET "/apple-touch-icon.png" for 127.0.0.1 at 2015-08-24 22:44:04 +0900
+
+ActionController::RoutingError (No route matches [GET] "/apple-touch-icon.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.4ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 22:47:08 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-24 22:54:32 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 255ms (Views: 252.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 22:54:33 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 22:54:33 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 22:54:33 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 22:54:33 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 22:54:33 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 22:54:33 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 22:54:33 +0900
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-24 22:58:27 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-25 18:15:06 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 189ms (Views: 187.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-25 18:15:07 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-25 18:15:07 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-25 18:15:07 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-25 18:15:07 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-25 18:15:07 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-25 18:15:07 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-25 18:15:07 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 227ms (Views: 225.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:12 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:32 +0900
+
+
+Started GET "/static_pages/about" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:44 +0900
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-25 20:01:54 +0900
+
+
+Started GET "/home" for 127.0.0.1 at 2015-08-27 22:48:45 +0900
+
+ActionController::RoutingError (No route matches [GET] "/home"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (49.7ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (196.3ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 309ms (Views: 307.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:13 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-27 22:49:51 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-27 22:50:00 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-27 22:59:34 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 182ms (Views: 180.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+
+Started GET "/images/rails/png" for 127.0.0.1 at 2015-08-27 22:59:35 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails/png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (31.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (73.2ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-27 22:59:47 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+
+Started GET "/images/rails/png" for 127.0.0.1 at 2015-08-27 22:59:48 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails/png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (34.9ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-27 23:00:19 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (19.7ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-27 23:00:20 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (39.7ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (59.6ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 18:28:03 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 1373ms (Views: 1371.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 18:28:06 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (47.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (150.9ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 18:28:16 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 18:28:16 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (25.0ms)
+
+
+Started GET "/static_pages/" for 127.0.0.1 at 2015-08-28 18:28:19 +0900
+
+ActionController::RoutingError (No route matches [GET] "/static_pages"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.1ms)
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 18:28:27 +0900
+
+
+Started GET "/static_pages/help" for 127.0.0.1 at 2015-08-28 18:34:10 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (25.1ms)
+Completed 200 OK in 2928ms (Views: 2926.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:14 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 18:34:45 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 18:34:46 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (129.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (189.3ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 19:59:30 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (46.0ms)
+Completed 200 OK in 1362ms (Views: 1361.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (35.7ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 19:59:32 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.4ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (28.1ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 19:59:57 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 984ms (Views: 983.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 19:59:58 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (28.0ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:00:19 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (32.8ms)
+Completed 200 OK in 932ms (Views: 931.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:00:20 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (48.4ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:00:51 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 886ms (Views: 884.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:00:52 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (30.7ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (48.9ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 15ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:00:57 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (21.2ms)
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:00:58 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (24.8ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:01:03 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (28.5ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:01:42 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 1188ms (Views: 1187.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:01:43 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (19.7ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:02:57 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (21.2ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:06:47 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (67.3ms)
+Completed 200 OK in 1273ms (Views: 1271.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (66.7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:06:48 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:07:39 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 939ms (Views: 938.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:07:40 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (19.5ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:08:16 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 931ms (Views: 930.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2015-08-28 20:08:17 +0900
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.9ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (45.8ms)
+Completed 200 OK in 61ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:10:01 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:13:06 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1183ms (Views: 1182.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 20:13:07 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:13:35 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 885ms (Views: 884.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 20:13:36 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_shim.html.erb (0.3ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 20:46:03 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 20:49:04 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 1254ms (Views: 1253.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 20:49:06 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 21:19:56 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 7385ms (Views: 7383.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 21:20:03 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 21:22:46 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 1289ms (Views: 1288.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 21:22:48 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 21:24:11 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 896ms (Views: 895.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 21:24:12 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 21:24:18 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 800ms
+
+ActionView::Template::Error (Undefined variable: "$grayMediumLighthh".
+  (in /Users/kanomatatomoyuki/rails/sample3/app/assets/stylesheets/custom.css.scss:80)):
+    2: <html>
+    3: <head>
+    4:     <title><%= full_title(yield(:title)) %></title>
+    5: 	<%= stylesheet_link_tag "application", media: "all","data-turbolinks-track" => true %>
+    6: 	<%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7: 	<%= csrf_meta_tags %>
+    8: 	<%= render 'layouts/shim'%>
+  app/assets/stylesheets/custom.css.scss:80
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___3069208747143357635_70135865084660'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.8ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 21:25:51 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 660ms
+
+ActionView::Template::Error (Undefined variable: "$lightGray".
+  (in /Users/kanomatatomoyuki/rails/sample3/app/assets/stylesheets/custom.css.scss:80)):
+    2: <html>
+    3: <head>
+    4:     <title><%= full_title(yield(:title)) %></title>
+    5: 	<%= stylesheet_link_tag "application", media: "all","data-turbolinks-track" => true %>
+    6: 	<%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7: 	<%= csrf_meta_tags %>
+    8: 	<%= render 'layouts/shim'%>
+  app/assets/stylesheets/custom.css.scss:80
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___3069208747143357635_70135865084660'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.2ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 21:25:54 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 678ms
+
+ActionView::Template::Error (Undefined variable: "$lightGray".
+  (in /Users/kanomatatomoyuki/rails/sample3/app/assets/stylesheets/custom.css.scss:80)):
+    2: <html>
+    3: <head>
+    4:     <title><%= full_title(yield(:title)) %></title>
+    5: 	<%= stylesheet_link_tag "application", media: "all","data-turbolinks-track" => true %>
+    6: 	<%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    7: 	<%= csrf_meta_tags %>
+    8: 	<%= render 'layouts/shim'%>
+  app/assets/stylesheets/custom.css.scss:80
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___3069208747143357635_70135865084660'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.4ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 21:26:07 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 960ms (Views: 959.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 21:26:08 +0900
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 22:28:52 +0900
+
+ActionController::RoutingError (No route matches [GET] "/static_pages/home"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (46.6ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (93.3ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 22:31:25 +0900
+
+ActionController::RoutingError (No route matches [GET] "/static_pages/home"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (17.3ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 22:31:28 +0900
+
+ActionController::RoutingError (No route matches [GET] "/static_pages/home"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (19.5ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 22:33:09 +0900
+
+ActionController::RoutingError (No route matches [GET] "/static_pages/home"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.6ms)
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2015-08-28 22:33:29 +0900
+
+ActionController::RoutingError (No route matches [GET] "/static_pages/home"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (12.6ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (45.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:33:35 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/railties-4.0.5/lib/rails/templates/rails/welcome/index.html.erb (1.5ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2015-08-28 22:33:39 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (54.7ms)
+  Rendered layouts/_shim.html.erb (0.8ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 1330ms (Views: 1328.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:33:41 +0900
+
+
+Started GET "/home" for 127.0.0.1 at 2015-08-28 22:33:56 +0900
+
+ActionController::RoutingError (No route matches [GET] "/home"):
+  actionpack (4.0.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.0.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.0.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.5) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.5) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.5) lib/rails/engine.rb:511:in `call'
+  railties (4.0.5) lib/rails/application.rb:97:in `call'
+  rack (1.5.5) lib/rack/lock.rb:17:in `call'
+  rack (1.5.5) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.5) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/kanomatatomoyuki/.rbenv/versions/2.0.0-p598/lib/ruby/gems/2.0.0/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (32.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:34:03 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (2.3ms)
+Completed 200 OK in 23ms (Views: 22.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:34:08 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:34:11 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:12 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:12 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:34:13 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:34:16 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:34:19 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:45:48 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:45:52 +0900
+
+
+Started GET "/help" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (3.0ms)
+  Rendered layouts/_footer.html.erb (1.1ms)
+Completed 200 OK in 31ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/help" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:45:56 +0900
+
+
+Started GET "/help" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 18ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/help" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:00 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:46:03 +0900
+
+
+Started GET "/about" for 127.0.0.1 at 2015-08-28 22:46:05 +0900
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 18ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2015-08-28 22:46:05 +0900
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:06 +0900
+
+
+Started GET "/contact" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+Processing by StaticPagesController#contact as HTML
+  Rendered static_pages/contact.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+Processing by StaticPagesController#contact as HTML
+  Rendered static_pages/contact.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:08 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:46:20 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:46:20 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:21 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 22:46:27 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-28 23:56:34 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (47.1ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (2.1ms)
+  Rendered layouts/_footer.html.erb (1.5ms)
+Completed 200 OK in 1479ms (Views: 1477.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2015-08-28 23:56:36 +0900
+
+
+Started GET "/signup" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (1.1ms)
+Completed 200 OK in 20ms (Views: 18.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-28 23:56:46 +0900
